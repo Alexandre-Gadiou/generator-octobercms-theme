@@ -1,5 +1,7 @@
 # generator-october-theme
 
+[![build Status](https://travis-ci.org/Alexandre-Gadiou/generator-octobercms-theme.svg)](https://travis-ci.org/Alexandre-Gadiou/enerator-octobercms-theme.svg?branch=master)
+
 **generator-october-theme** is a yeoman generator to set up an OctoberCMS theme project in 5 minutes. (if nodejs already installed ...)
 
 generator-october-theme is based on [EJS](http://ejs.co) technology.
