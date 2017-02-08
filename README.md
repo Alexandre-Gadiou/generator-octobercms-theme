@@ -46,7 +46,7 @@ design your HTML pages with layouts, components ...
 
 2. Install
 
-	* 	`cd generator-october-theme`
+	* 	`cd generator-octobercms-theme`
 		
 	* 	`npm link`
 		
@@ -59,7 +59,7 @@ As promised, you can now generate the october theme project and then start the p
 To generate the october theme project, you need to run this command  :
 
 ```
-yo october-theme
+yo octobercms-theme
 ```
 
 Then answer to Mr yeoman questions
