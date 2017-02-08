@@ -1,10 +1,10 @@
-# generator-october-theme
+# generator-octobercms-theme
 
 [![build Status](https://travis-ci.org/Alexandre-Gadiou/generator-octobercms-theme.svg)](https://travis-ci.org/Alexandre-Gadiou/enerator-octobercms-theme.svg?branch=master)
 
-**generator-october-theme** is a yeoman generator to set up an OctoberCMS theme project in 5 minutes. (if nodejs already installed ...)
+**generator-octobercms-theme** is a yeoman generator to set up an OctoberCMS theme project in 5 minutes. (if nodejs already installed ...)
 
-generator-october-theme is based on [EJS](http://ejs.co) technology.
+generator-octobercms-theme is based on [EJS](http://ejs.co) technology.
 
 ## Presentation
 
@@ -18,7 +18,7 @@ This generator enables to create a **modern** OctoberCMS theme project with this
 
 Even if OctoberCMS is user friendly for front developers, a project always start with a static HTML prototype.
 
-**generator-october-theme** will create a new folder in your OctoberCMS theme project `src/main/html`. In this folder you 
+**generator-octobercms-theme** will create a new folder in your OctoberCMS theme project `src/main/html`. In this folder you 
 design your HTML pages with layouts, components ...
 
 ## Getting Started
@@ -42,7 +42,7 @@ design your HTML pages with layouts, components ...
 
 ## Installation
 
-1. Download [generator-october-theme](https://github.com/Alexandre-Gadiou/generator-october-theme/archive/master.zip)
+1. Download [generator-octobercms-theme](https://github.com/Alexandre-Gadiou/generator-octobercms-theme/archive/master.zip)
 
 2. Install
 
