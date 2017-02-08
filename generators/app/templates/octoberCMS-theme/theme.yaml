@@ -1,0 +1,5 @@
+name: <%= projectName %>
+description: <%= projectDescription %>
+author: '<%= projectAuthor %>'
+homepage: '<%= projectAuthorWebsite %>'
+code: <%= projectCodeID %>
