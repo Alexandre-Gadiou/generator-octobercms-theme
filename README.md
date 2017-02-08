@@ -14,7 +14,7 @@ This generator enables to create a **modern** OctoberCMS theme project with this
 
 1. **Bootstrap-SASS 3.3.5**
 2. **Font Awesome 4.4.0**
-3. **jQuery 2.1.4**
+3. **jQuery 3.1.1**
 
 Even if OctoberCMS is user friendly for front developers, a project always start with a static HTML prototype.
 
