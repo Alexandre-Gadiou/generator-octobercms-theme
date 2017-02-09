@@ -18,14 +18,14 @@ This generator enables to create a **modern** OctoberCMS theme project with this
 
 Even if OctoberCMS is user friendly for front developers, a project always start with a static HTML prototype.
 
-**generator-octobercms-theme** will create a new folder in your OctoberCMS theme project `src/main/html`. In this folder you 
+**generator-octobercms-theme** will create a new folder in your OctoberCMS theme project `prototype`. In this folder you 
 design your HTML pages with layouts, components ...
 
 ## Getting Started
 
 1. Install [nodejs](https://nodejs.org/)
 
-2. Install G
+2. Install Gulp
 	
 	* 	`npm install -g gulp`
 		
@@ -36,8 +36,6 @@ design your HTML pages with layouts, components ...
 4. Install Yeoman
 
 	* 	`npm install -g yo`	
-
-5. Install [Maven](https://maven.apache.org/install.html)
 	
 
 ## Installation
@@ -48,7 +46,7 @@ design your HTML pages with layouts, components ...
 
 	* 	`cd generator-octobercms-theme`
 		
-	* 	`npm link`
+	* 	`npm install && npm link`
 		
 ## Usage	
 
