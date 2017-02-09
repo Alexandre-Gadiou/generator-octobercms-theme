@@ -2,4 +2,10 @@
 
 .home {
 
+	.page-content {
+		& > .container {
+        	padding:15px
+        }
+	}
+	
 }

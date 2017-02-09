@@ -1,10 +1,9 @@
 // layouts/simple.scss
 
 .simple {
-    .page-content {
-
-        .column {
-            @extend .col-xs-4;
+   .page-content {
+		& > .container {
+        	padding:15px
         }
-    }
+	}
 }
